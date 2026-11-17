@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Glim использует камеру на устройстве, чтобы распознать ваше лицо и разблокировать Mac. Кадры обрабатываются локально и не сохраняются. / Glim uses the on-device camera to recognize your face and unlock your Mac. Frames are processed locally and are never stored.</string>
+	<key>SUFeedURL</key>
+	<string></string>
+	<key>SUPublicEDKey</key>
+	<string></string>
+	<key>SUAutomaticallyUpdate</key>
+	<false/>
+	<key>SUEnableInstallerLauncherService</key>
+	<false/>
+</dict>
+</plist>
